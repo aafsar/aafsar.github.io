@@ -4,3 +4,14 @@
 
 layout: default
 ---
+# Atahan Afsar
+***
+Something about me
+
+## Publications
+***
+Something Publications
+
+## Work in Progress
+***
+Something about ongoing work
