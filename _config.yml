@@ -21,8 +21,11 @@
 title: Atahan Afsar
 # email: atahan afsar [at] gmail [dot] com
 logo: profile.png
-#description: >- # this means to ignore newlines until "baseurl:"
-#  Ph.D. Candidate, Stockholm School of Economics (defense on September 19)
+description: >- # this means to ignore newlines until "baseurl:"
+  <br/>
+  Ph.D. Candidate, Stockholm School of Economics (defense on September 19)
+  <br/><br/>
+  Affiliated researcher, Institute for Future Studies, Stockholm/Sweden
 # baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
