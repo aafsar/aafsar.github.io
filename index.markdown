@@ -4,7 +4,7 @@
 
 layout: default
 ---
-# Atahan Afsar
+## Bio
 ***
 Something about me
 
