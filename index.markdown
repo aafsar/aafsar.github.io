@@ -71,7 +71,12 @@ My research areas include Behavioral Economics, Computational Economics, Game Th
     <p class="authors">with Mark Voorneveld</p>
 </div>
 
-
+## Teaching Experience
+***
+<p> <strong>Lecturer</strong>, Ph.D. Preparatory Mathematics </p>
+<p> <strong>Teaching Assistant</strong>, Ph.D. Mathematics I, Professor Jörgen Weibull </p>
+<p> <strong>Teaching Assistant</strong>, Ph.D. Microeconomics II, Professor Karl Wärneryd </p>
+<p> <strong>Teaching Assistant</strong>, M.Sc. Advanced Microeconomics, Professor Karl Wärneryd </p>
 
 
 
