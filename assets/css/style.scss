@@ -1,0 +1,48 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.wrapper h1 {
+text-align: center;
+}
+
+h2 {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.paper {
+    margin-bottom: 30px;
+}
+
+.paper h3 {
+    color: #494949;;
+    margin-bottom: 5px;
+    font-size: 1.25em;
+    font-weight: bold;
+    line-height: 1.2;
+}
+
+.paper .authors {
+    color: #555555;
+    margin: 0 0 5px;
+    line-height: 1.2;
+    font-size: 1em;
+}
+
+.paper .journal {
+    color: #555555;
+    margin: 0 0 5px;
+    line-height: 1.2;
+    font-size: 1em;
+}
+
+.paper a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+.paper a:hover {
+    text-decoration: underline;
+}
