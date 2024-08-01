@@ -62,7 +62,7 @@ My research areas include Behavioral Economics, Computational Economics, Game Th
 </div>
 
 <div class="paper">
-    <h3>Protests as Information Aggregation</h3>
+    <h3>Protests, Image Concerns, and Preference Aggregation</h3>
     <p class="authors">with Mark Voorneveld and Salil Sharma</p>
 </div>
 
