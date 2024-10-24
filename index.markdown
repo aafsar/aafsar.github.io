@@ -7,9 +7,9 @@ title: ""
 ---
 ## Bio
 * * *
-I am a a Ph.D. candidate in the Department of Economics at the Stockholm School of Economics, Stockholm/Sweden, where I will be defending my thesis on September 19, 2024. I am also an affiliated researcher at the Institute for Future Studies in Stockholm/Sweden. I am currently based in Stockholm, Sweden, and Cambridge, MA, USA.
+I am currently a Postdoc at the Institute for Futures Studies in Stockholm, Sweden. I completed my Ph.D. at Stockholm School of Economics in 2024.
 
-My research areas include Behavioral Economics, Computational Economics, Game Theory, Microeconomic Theory, and Political Economics. My current research focuses on (i) information acquisition and information design, with an emphasis on political and normative behavior, (ii) theoretical and empirical analysis of models of learning in games, and (iii) Political economics, with an emphasis on parliamentary democracies.
+My research areas include Behavioral Economics, Computational Economics, Game Theory, Microeconomic Theory, and Political Economics. My current research focuses on (i) theoretical and empirical analysis of models of learning in games, (ii) information acquisition and information design, with an emphasis on political and normative behavior, and (iii) Political economics, with an emphasis on parliamentary democracies.
 
 ## Publications
 ***
