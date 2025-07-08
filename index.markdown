@@ -57,11 +57,6 @@ My research areas include Behavioral Economics, Computational Economics, Game Th
 </div>
 
 <div class="paper">
-    <h3>Iranian Protests and Gender Norms</h3>
-    <p class="authors">with Avenia Ghazarian</p>
-</div>
-
-<div class="paper">
     <h3>Protests, Image Concerns, and Preference Aggregation</h3>
     <p class="authors">with Mark Voorneveld and Salil Sharma</p>
 </div>
