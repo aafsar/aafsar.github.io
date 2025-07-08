@@ -7,7 +7,7 @@ title: ""
 ---
 ## Bio
 * * *
-I am currently a Postdoctoral researcher at the Institute for Futures Studies in Stockholm, Sweden. I completed my Ph.D. at Stockholm School of Economics in 2024.
+I am currently Wallenberg Postdoctoral Fellow at the MIT Department of Economics in Cambridge, MA. I earned my Ph.D. from the Stockholm School of Economics in 2024.
 
 My research areas include Behavioral Economics, Computational Economics, Game Theory, Microeconomic Theory, and Political Economics. My current research focuses on (i) theoretical and empirical analysis of models of learning in games, (ii) information acquisition and information design, with an emphasis on political and normative behavior, and (iii) Political economics, with an emphasis on parliamentary democracies.
 
